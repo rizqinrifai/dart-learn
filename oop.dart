@@ -13,3 +13,4 @@ void main() {
   Mobil mobilSaya = Mobil('Merah', 100);
   mobilSaya.tampilkanInfo();
 }
+
